@@ -1,0 +1,19 @@
+html {
+    background-color: rgb(123, 456, 789);
+}
+p {
+    color:red;
+}
+h2 {
+    color: rgb(100, 101, 102);
+}
+a {
+    color: rgb(133, 133, 133);
+}
+.block {
+    width: 260px;
+    background-color: rgb(241, 237, 181);
+    border: 2px solid rgb(128, 119, 119);
+    padding: 20px 10px 20px 30px;
+    /*margin: 30px 20px 10px 50px;*/
+}
