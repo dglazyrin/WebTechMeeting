@@ -1,6 +1,6 @@
-function greeting(n1) {
-    alert(`Ну, здравствуй, ${n1}`);
+function greeting(username) {
+    alert(`Ну, здравствуй, ${username}`);
 }
 
 let hisName = prompt("Вы, собственно, кто?");
-greeting(hisName)
+greeting(hisName);
